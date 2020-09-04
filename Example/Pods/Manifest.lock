@@ -1,0 +1,16 @@
+PODS:
+  - SCICategory0 (0.1.0)
+
+DEPENDENCIES:
+  - SCICategory0 (from `../`)
+
+EXTERNAL SOURCES:
+  SCICategory0:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SCICategory0: bdcfce50127f29d844d886af038e1cb9252978d5
+
+PODFILE CHECKSUM: e81a50418460acc29dd3a61a8e2ecf9a4e2a8ee8
+
+COCOAPODS: 1.10.0.beta.2

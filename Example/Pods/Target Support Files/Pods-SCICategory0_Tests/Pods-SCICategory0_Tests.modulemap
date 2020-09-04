@@ -1,0 +1,6 @@
+framework module Pods_SCICategory0_Tests {
+  umbrella header "Pods-SCICategory0_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

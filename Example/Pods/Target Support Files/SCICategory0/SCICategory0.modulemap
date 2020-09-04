@@ -1,0 +1,6 @@
+framework module SCICategory0 {
+  umbrella header "SCICategory0-umbrella.h"
+
+  export *
+  module * { export * }
+}
